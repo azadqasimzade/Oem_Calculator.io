@@ -1,0 +1,1 @@
+{"version":3,"file":"css/style.6039445999fc9b461717.css","mappings":"AAAA,WACI,wBACA,4D","sources":["webpack://oem_calculater/./src/sass/_fonts.scss"],"sourcesContent":["@font-face {\n    font-family: generalFont;\n    src: url(/src/fonts/Prompt-Regular.ttf) format(\"truetype\");\n}"],"names":[],"sourceRoot":""}
